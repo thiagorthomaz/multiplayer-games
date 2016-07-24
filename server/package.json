@@ -1,0 +1,23 @@
+{
+  "name": "multiplayer-games",
+  "version": "1.0.0",
+  "description": "Learning how to create my own multiplayer game using libgdx and NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagorthomaz/multiplayer-games.git"
+  },
+  "author": "Thiago Thomaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagorthomaz/multiplayer-games/issues"
+  },
+  "homepage": "https://github.com/thiagorthomaz/multiplayer-games#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
